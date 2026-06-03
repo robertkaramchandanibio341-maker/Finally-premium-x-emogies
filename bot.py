@@ -29,7 +29,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # ========== CONFIG ==========
-BOT_TOKEN = "TERA_NAYA_TOKEN_YAHAN_DAAL"
+BOT_TOKEN = "8977192256:AAF2K-fbWOtJYCKHlmw40LojIZyKnVsRPcg"
 OWNER_ID = 8586849798
 USERS_FILE = "users.json"
 BANNED_FILE = "banned.json"
